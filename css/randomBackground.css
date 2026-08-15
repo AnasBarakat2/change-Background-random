@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(249, 222, 187);
+}
+
+.countainer{
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    
+}
+
+#text{
+    color: cadetblue;
+    margin-left: 500px;
+}
+
+#btn{
+    border-radius: 20px;
+    padding: 20px;
+    width: 200px;
+    margin-left: 550px;
+    color: burlywood;
+    background-color: rgb(153, 170, 164);
+}
